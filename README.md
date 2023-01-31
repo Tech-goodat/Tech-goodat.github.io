@@ -1,0 +1,1 @@
+this is a basic example of how git staging environment works
